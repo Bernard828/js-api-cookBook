@@ -1,1 +1,2 @@
-# js-api-cookBook
+SPA Application
+  Using front-end (JS, HTM, CSS), backend
